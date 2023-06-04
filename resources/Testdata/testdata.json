@@ -1,0 +1,10 @@
+{
+
+"URIGetUsers" : "https://reqres.in/api/users?page=2",
+"ExpectedEmailValue": "lindsay.ferguson@reqres.in",
+"ExpectedGetURi" : "api/users",
+"POSTURI": "https://reqres.in/api/users",
+"PUTURI" : "https://reqres.in/api/users/2",
+"PATCHURI": "https://reqres.in/api/users/2"
+
+}
